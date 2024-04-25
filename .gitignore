@@ -1,0 +1,11 @@
+#VSCode Configs
+.vscode
+
+#Maquina VIrtual
+venv
+
+#env
+.env
+
+#pycache
+__pycache__
