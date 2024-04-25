@@ -1,5 +1,5 @@
 # Usar una imagen de Python específica
-FROM python:3.12.2-slim-buster
+FROM python:3.12.2
 
 # Crear un directorio de trabajo
 WORKDIR /app
